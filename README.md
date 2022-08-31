@@ -1,5 +1,5 @@
 # Supervised-Machine-Learning
-Most popular supervised Machine Learning algorithms from scratch with Scikit-learn implementation
+Most popular supervised Machine Learning algorithms from scratch with Scikit-learn implementation.
 
 
 ## 1. Linear Regression
